@@ -1,9 +1,10 @@
 ## Hey, :wave:, I'm Jason. 
 
+<img align='right' src='https://jasonraimondi.com/misc/me/zombie-ruby-trimmed@2x.png' width='120px'>
+
 I am a technologist and computer geek.
 
-<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
-<img align='right' src='https://jasonraimondi.com/misc/me/zombie-ruby-trimmed@2x.png' width='120px'>
+I have been developing for the web since 2007. I've worked on everything from terrible old-school procedural spaghetti :spaghetti: monsters, to MVC frameworks, to tested, domain-driven applications. Early on, I was developing traditional server-rendered PHP applications. These days, I really enjoy full stack TypeScript.
 
 ## 💻 Stats
 
