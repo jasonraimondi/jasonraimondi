@@ -1,4 +1,4 @@
-## Hey, :wave:, I'm Jason. 
+## Hey, :wave:, I'm Jason.
 
 <img align='right' src='https://jasonraimondi.com/misc/me/zombie-ruby-trimmed@2x.png' width='120px'>
 
