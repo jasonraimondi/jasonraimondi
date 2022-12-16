@@ -4,7 +4,7 @@
 
 I am a technologist and computer geek.
 
-I have been developing for the web since 2007. I've worked on everything from terrible old-school procedural spaghetti :spaghetti: monsters, to MVC frameworks, to tested, domain-driven applications. Early on, I was developing traditional server-rendered PHP applications. These days, I really enjoy full stack TypeScript.
+I have been developing for the web since 2007. I've worked on everything from terrible old-school procedural spaghetti :spaghetti: monsters, to fully tested applications. Early on, I was developing traditional server-rendered PHP applications. These days, I really enjoy full stack TypeScript.
 
 ## 💻 Stats
 
