@@ -12,3 +12,4 @@ I have been developing for the web since 2007. I've worked on everything from te
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=github.com/jasonraimondi&color=00cf00)
 
+<a rel="me" href="https://indieweb.social/@jasonraimondi">Mastodon</a>
