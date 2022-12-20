@@ -9,5 +9,3 @@ I have been developing for the web since 2007. I've worked on everything from te
 ## 💻 Stats
 
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonraimondi&show_icons=true&locale=en&count_private=true)
-
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=github.com/jasonraimondi&color=00cf00)
