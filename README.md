@@ -40,11 +40,11 @@ I have been developing for the web since 2007. I've worked on everything from te
 
 #### ⭐ Recent stars
 
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API (4 days ago)
 - [allmyfutures/zod-friendly-forms](https://github.com/allmyfutures/zod-friendly-forms) - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. (6 days ago)
 - [allmyfutures/postcss-custom-media-generator](https://github.com/allmyfutures/postcss-custom-media-generator) - Generates mobile first `@custom-media` rules from a configuration object. (1 week ago)
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀 (1 week ago)
-- [nextauthjs/sveltekit-auth-example](https://github.com/nextauthjs/sveltekit-auth-example) - Example showing how to use Auth.js with SvelteKit. (1 week ago)
 
 #### 📫 How to reach me
 
