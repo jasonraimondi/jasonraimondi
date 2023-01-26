@@ -8,9 +8,9 @@ I have been developing for the web since 2007. I've worked on everything from te
 
 #### 👷 Currently working on
 
-- [allmyfutures/nestjs-axios-promise](https://github.com/allmyfutures/nestjs-axios-promise) - A thin wrapper around Axios for Nest.js using Promises, because the @nestjs/axios package returns an observable. (today)
-- [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Prezto, Mackup, Ubersicht, and ASDF. (1 day ago)
-- [allmyfutures/zod-friendly-forms](https://github.com/allmyfutures/zod-friendly-forms) - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. (2 days ago)
+- [allmyfutures/nestjs-axios-promise](https://github.com/allmyfutures/nestjs-axios-promise) - A thin wrapper around Axios for Nest.js using Promises, because the @nestjs/axios package returns an observable. (1 day ago)
+- [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Prezto, Mackup, Ubersicht, and ASDF. (2 days ago)
+- [allmyfutures/zod-friendly-forms](https://github.com/allmyfutures/zod-friendly-forms) - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. (3 days ago)
 - [allmyfutures/postcss-custom-media-generator](https://github.com/allmyfutures/postcss-custom-media-generator) - Generates mobile first `@custom-media` rules from a configuration object. (1 week ago)
 - [jasonraimondi/nextjs-jwt-example](https://github.com/jasonraimondi/nextjs-jwt-example) - next.js authorization example including private route protection. WARNING - This is probably not a great reference in 2023 and beyond, consider using next-auth. (1 week ago)
 
@@ -40,9 +40,9 @@ I have been developing for the web since 2007. I've worked on everything from te
 
 #### ⭐ Recent stars
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API (4 days ago)
-- [allmyfutures/zod-friendly-forms](https://github.com/allmyfutures/zod-friendly-forms) - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. (6 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API (5 days ago)
+- [allmyfutures/zod-friendly-forms](https://github.com/allmyfutures/zod-friendly-forms) - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. (1 week ago)
 - [allmyfutures/postcss-custom-media-generator](https://github.com/allmyfutures/postcss-custom-media-generator) - Generates mobile first `@custom-media` rules from a configuration object. (1 week ago)
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀 (1 week ago)
 
