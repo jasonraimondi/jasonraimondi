@@ -9,19 +9,19 @@ I have been developing for the web since 2007. I've worked on everything from te
 #### 🏗️ Some of my latest contributions
 
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} _({{humanize .OccurredAt}})_
 {{- end}}
 
 #### 💼 Recent releases I've worked on
 
 {{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}})){{with .Description}} - {{.}}{{end}} _({{humanize .LastRelease.PublishedAt}})_
 {{- end}}
 
 #### 🔨 Latest Pull Requests I've published
 
 {{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) _({{humanize .CreatedAt}})_
 {{- end}}
 
 #### 📫 How to reach me
