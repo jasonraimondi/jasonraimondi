@@ -9,8 +9,8 @@ I have been developing for the web since 2007. I've worked on everything from te
 #### 🏗️ Some of my latest contributions
 
 
+- [jasonraimondi/zod-friendly-forms](https://github.com/jasonraimondi/zod-friendly-forms) - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. _(today)_
 - [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Prezto, Mackup, Ubersicht, and ASDF. _(1 day ago)_
-- [jasonraimondi/zod-friendly-forms](https://github.com/jasonraimondi/zod-friendly-forms) - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. _(2 days ago)_
 - [jasonraimondi/nestjs-axios-promise](https://github.com/jasonraimondi/nestjs-axios-promise) - A thin wrapper around Axios for Nest.js using Promises, because the @nestjs/axios package returns an observable. _(4 days ago)_
 - [jasonraimondi/postcss-custom-media-generator](https://github.com/jasonraimondi/postcss-custom-media-generator) - Generates mobile first `@custom-media` rules from a configuration object. _(1 week ago)_
 - [jasonraimondi/nextjs-jwt-example](https://github.com/jasonraimondi/nextjs-jwt-example) - next.js authorization example including private route protection. WARNING - This is probably not a great reference in 2023 and beyond, consider using next-auth. _(1 week ago)_
@@ -27,11 +27,11 @@ I have been developing for the web since 2007. I've worked on everything from te
 #### 🔨 Latest Pull Requests I've published
 
 
+- [feat: migrate to deno](https://github.com/jasonraimondi/zod-friendly-forms/pull/1) on [jasonraimondi/zod-friendly-forms](https://github.com/jasonraimondi/zod-friendly-forms) _(today)_
 - [docs: fix typo in readme example](https://github.com/elad2412/the-new-css-reset/pull/55) on [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) _(1 month ago)_
 - [feat: allow setting DOTENV_FLOW_SILENT without preregister](https://github.com/kerimdzhanov/dotenv-flow/pull/61) on [kerimdzhanov/dotenv-flow](https://github.com/kerimdzhanov/dotenv-flow) _(2 months ago)_
 - [Support nestjs version ^9.0.0](https://github.com/nest-modules/mailer/pull/802) on [nest-modules/mailer](https://github.com/nest-modules/mailer) _(6 months ago)_
 - [Bugfix/implicit grant](https://github.com/jasonraimondi/ts-oauth2-server/pull/51) on [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) _(8 months ago)_
-- [#4 - add npm script and remove the need for src/main.ts](https://github.com/promise-watch/promise-watch/pull/6) on [promise-watch/promise-watch](https://github.com/promise-watch/promise-watch) _(11 months ago)_
 
 #### 📫 How to reach me
 
