@@ -18,12 +18,6 @@ I have been developing for the web since 2007. I've worked on everything from te
 - [{{.Name}}]({{.URL}}) - [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) {{with .Description}} - {{.}}{{end}} _({{humanize .LastRelease.PublishedAt}})_
 {{- end}}
 
-#### 🔨 Latest Pull Requests I've published
-
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) _({{humanize .CreatedAt}})_
-{{- end}}
-
 #### 📫 How to reach me
 
 - Fediverse: https://indieweb.social/@jasonraimondi
