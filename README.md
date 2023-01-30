@@ -1,4 +1,4 @@
-## Hey, :wave:, I'm Jason.
+## Hey :wave:, I'm Jason.
 
 <img align='right' alt="This is my pup, Ruby." src='https://jasonraimondi.com/misc/me/zombie-ruby-trimmed@2x.png' width='120px'>
 
@@ -9,7 +9,7 @@ I have been developing for the web since 2007. I've worked on everything from te
 #### 🏗️ Some of my latest contributions
 
 
-- [jasonraimondi/route-strings](https://github.com/jasonraimondi/route-strings) _(today)_
+- [jasonraimondi/route-strings](https://github.com/jasonraimondi/route-strings) - A typed route string generator to help keep urls under control. _(today)_
 - [jasonraimondi/zod-friendly-forms](https://github.com/jasonraimondi/zod-friendly-forms) - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. _(1 day ago)_
 - [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Prezto, Mackup, Ubersicht, and ASDF. _(2 days ago)_
 - [jasonraimondi/nestjs-axios-promise](https://github.com/jasonraimondi/nestjs-axios-promise) - A thin wrapper around Axios for Nest.js using Promises, because the @nestjs/axios package returns an observable. _(5 days ago)_
