@@ -11,7 +11,7 @@ I have been developing for the web since 2007. I've worked on everything from te
 
 - [jasonraimondi/route-strings](https://github.com/jasonraimondi/route-strings) - A typed route string generator to help keep urls under control. _(today)_
 - [jasonraimondi/zod-friendly-forms](https://github.com/jasonraimondi/zod-friendly-forms) - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. _(1 day ago)_
-- [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Prezto, Mackup, Ubersicht, and ASDF. _(2 days ago)_
+- [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, ASDF, and Ubersicht. _(2 days ago)_
 - [jasonraimondi/nestjs-axios-promise](https://github.com/jasonraimondi/nestjs-axios-promise) - A thin wrapper around Axios for Nest.js using Promises, because the @nestjs/axios package returns an observable. _(5 days ago)_
 - [jasonraimondi/postcss-custom-media-generator](https://github.com/jasonraimondi/postcss-custom-media-generator) - Generates mobile first `@custom-media` rules from a configuration object. _(1 week ago)_
 
