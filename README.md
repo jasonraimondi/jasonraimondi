@@ -24,15 +24,6 @@ I have been developing for the web since 2007. I've worked on everything from te
 - [promise-watch/promise-watch](https://github.com/promise-watch/promise-watch) - [core-v1.1.2](https://github.com/promise-watch/promise-watch/releases/tag/core-v1.1.2)  - An Api/E2E monitor that runs promises on intervals and sends notifications on errors.  _(11 months ago)_
 - [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - [v1.3.3](https://github.com/jasonraimondi/url-to-png/releases/tag/v1.3.3)  - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via S3 _(11 months ago)_
 
-#### 🔨 Latest Pull Requests I've published
-
-
-- [feat: migrate to deno](https://github.com/jasonraimondi/zod-friendly-forms/pull/1) on [jasonraimondi/zod-friendly-forms](https://github.com/jasonraimondi/zod-friendly-forms) _(1 day ago)_
-- [docs: fix typo in readme example](https://github.com/elad2412/the-new-css-reset/pull/55) on [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) _(1 month ago)_
-- [feat: allow setting DOTENV_FLOW_SILENT without preregister](https://github.com/kerimdzhanov/dotenv-flow/pull/61) on [kerimdzhanov/dotenv-flow](https://github.com/kerimdzhanov/dotenv-flow) _(2 months ago)_
-- [Support nestjs version ^9.0.0](https://github.com/nest-modules/mailer/pull/802) on [nest-modules/mailer](https://github.com/nest-modules/mailer) _(6 months ago)_
-- [Bugfix/implicit grant](https://github.com/jasonraimondi/ts-oauth2-server/pull/51) on [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) _(8 months ago)_
-
 #### 📫 How to reach me
 
 - Fediverse: https://indieweb.social/@jasonraimondi
