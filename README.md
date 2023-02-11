@@ -22,7 +22,7 @@ I have been developing for the web since 2007. I've worked on everything from te
 - [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - [v2.6.1](https://github.com/jasonraimondi/ts-oauth2-server/releases/tag/v2.6.1)  - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(1 month ago)_
 - [nest-modules/mailer](https://github.com/nest-modules/mailer) - [v1.8.1](https://github.com/nest-modules/mailer/releases/tag/v1.8.1)  - 📨 A mailer module for Nest framework (node.js) _(6 months ago)_
 - [promise-watch/promise-watch](https://github.com/promise-watch/promise-watch) - [core-v1.1.2](https://github.com/promise-watch/promise-watch/releases/tag/core-v1.1.2)  - An Api/E2E monitor that runs promises on intervals and sends notifications on errors.  _(11 months ago)_
-- [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - [v1.3.3](https://github.com/jasonraimondi/url-to-png/releases/tag/v1.3.3)  - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via S3 _(11 months ago)_
+- [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - [v1.3.3](https://github.com/jasonraimondi/url-to-png/releases/tag/v1.3.3)  - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via S3 _(1 year ago)_
 
 #### 📫 How to reach me
 
