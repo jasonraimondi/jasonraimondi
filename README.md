@@ -13,7 +13,7 @@ I have been developing for the web since 2007. I've worked on everything from te
 - [jasonraimondi/deno-mirror-to-gitea](https://github.com/jasonraimondi/deno-mirror-to-gitea) - Bulk add mirror repositories to a Gitea instance by scraping repositories on GitHub. _(3 weeks ago)_
 - [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, ASDF, and Ubersicht. _(3 weeks ago)_
 - [jasonraimondi/zod-friendly-forms](https://github.com/jasonraimondi/zod-friendly-forms) - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. _(3 weeks ago)_
-- [jasonraimondi/route-strings](https://github.com/jasonraimondi/route-strings) - A typed route string generator to help keep urls under control. _(3 weeks ago)_
+- [jasonraimondi/route-strings](https://github.com/jasonraimondi/route-strings) - A typed route string generator to help keep urls under control. _(4 weeks ago)_
 
 #### 💼 Recent releases I've worked on
 
