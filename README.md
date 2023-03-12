@@ -9,10 +9,10 @@ I have been developing for the web since 2007. I've worked on everything from te
 #### 🏗️ Some of my latest contributions
 
 
-- [jasonraimondi/shopify-public-app-ex](https://github.com/jasonraimondi/shopify-public-app-ex) _(4 days ago)_
-- [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, ASDF, and Ubersicht. _(5 days ago)_
+- [jasonraimondi/shopify-public-app-ex](https://github.com/jasonraimondi/shopify-public-app-ex) _(5 days ago)_
+- [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, ASDF, and Ubersicht. _(6 days ago)_
 - [jasonraimondi/zod-friendly-forms](https://github.com/jasonraimondi/zod-friendly-forms) - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. _(1 week ago)_
-- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(2 weeks ago)_
+- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(3 weeks ago)_
 - [jasonraimondi/deno-mirror-to-gitea](https://github.com/jasonraimondi/deno-mirror-to-gitea) - Bulk add mirror repositories to a Gitea instance by scraping repositories on GitHub. _(1 month ago)_
 
 #### 💼 Recent releases I've worked on
