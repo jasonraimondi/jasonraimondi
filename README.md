@@ -19,7 +19,7 @@ I have been developing for the web since 2007. I've worked on everything from te
 
 
 - [jasonraimondi/postcss-custom-media-generator](https://github.com/jasonraimondi/postcss-custom-media-generator) - [v1.1.0](https://github.com/jasonraimondi/postcss-custom-media-generator/releases/tag/v1.1.0)  - Generates mobile first `@custom-media` rules from a configuration object. _(2 months ago)_
-- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - [v2.6.1](https://github.com/jasonraimondi/ts-oauth2-server/releases/tag/v2.6.1)  - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(2 months ago)_
+- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - [v2.6.1](https://github.com/jasonraimondi/ts-oauth2-server/releases/tag/v2.6.1)  - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(3 months ago)_
 - [nest-modules/mailer](https://github.com/nest-modules/mailer) - [v1.8.1](https://github.com/nest-modules/mailer/releases/tag/v1.8.1)  - 📨 A mailer module for Nest framework (node.js) _(8 months ago)_
 
 #### 📫 How to reach me
