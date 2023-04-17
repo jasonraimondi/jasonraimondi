@@ -9,7 +9,7 @@ I have been developing for the web since 2007. I've worked on everything from te
 #### 🏗️ Some of my latest contributions
 
 
-- [jasonraimondi/shopify-public-app-ex](https://github.com/jasonraimondi/shopify-public-app-ex) _(3 days ago)_
+- [jasonraimondi/shopify-public-app-ex](https://github.com/jasonraimondi/shopify-public-app-ex) _(4 days ago)_
 - [jasonraimondi/.github](https://github.com/jasonraimondi/.github) _(1 week ago)_
 - [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via S3 _(1 week ago)_
 - [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(1 week ago)_
@@ -20,7 +20,7 @@ I have been developing for the web since 2007. I've worked on everything from te
 
 - [jasonraimondi/postcss-custom-media-generator](https://github.com/jasonraimondi/postcss-custom-media-generator) - [v1.1.0](https://github.com/jasonraimondi/postcss-custom-media-generator/releases/tag/v1.1.0)  - Generates mobile first `@custom-media` rules from a configuration object. _(2 months ago)_
 - [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - [v2.6.1](https://github.com/jasonraimondi/ts-oauth2-server/releases/tag/v2.6.1)  - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(3 months ago)_
-- [nest-modules/mailer](https://github.com/nest-modules/mailer) - [v1.8.1](https://github.com/nest-modules/mailer/releases/tag/v1.8.1)  - 📨 A mailer module for Nest framework (node.js) _(8 months ago)_
+- [nest-modules/mailer](https://github.com/nest-modules/mailer) - [v1.8.1](https://github.com/nest-modules/mailer/releases/tag/v1.8.1)  - 📨 A mailer module for Nest framework (node.js) _(9 months ago)_
 - [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - [v1.3.3](https://github.com/jasonraimondi/url-to-png/releases/tag/v1.3.3)  - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via S3 _(1 year ago)_
 
 #### 📫 How to reach me
