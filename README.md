@@ -22,7 +22,7 @@ I have been developing for the web since 2007. I've worked on everything from te
 #### 🐺 Recent releases I've worked on
 
 
-- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - [v3.0.0](https://github.com/jasonraimondi/ts-oauth2-server/releases/tag/v3.0.0)  - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(2 days ago)_
+- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - [v3.0.1-alpha.3](https://github.com/jasonraimondi/ts-oauth2-server/releases/tag/v3.0.1-alpha.3)  - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(today)_
 - [jasonraimondi/postcss-custom-media-generator](https://github.com/jasonraimondi/postcss-custom-media-generator) - [v1.1.0](https://github.com/jasonraimondi/postcss-custom-media-generator/releases/tag/v1.1.0)  - Generates mobile first `@custom-media` rules from a configuration object. _(4 months ago)_
 - [nest-modules/mailer](https://github.com/nest-modules/mailer) - [v1.8.1](https://github.com/nest-modules/mailer/releases/tag/v1.8.1)  - 📨 A mailer module for Nest framework (node.js) _(10 months ago)_
 - [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - [v1.3.3](https://github.com/jasonraimondi/url-to-png/releases/tag/v1.3.3)  - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via S3 _(1 year ago)_
