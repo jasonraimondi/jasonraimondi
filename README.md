@@ -13,16 +13,16 @@ I have been developing for the web since 2007. I've worked on everything from te
 #### 👨‍💻 Some of my latest contributions
 
 
-- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(today)_
-- [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, ASDF, and Ubersicht. _(5 days ago)_
+- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(1 day ago)_
+- [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, ASDF, and Ubersicht. _(6 days ago)_
 - [jasonraimondi/printables](https://github.com/jasonraimondi/printables) - A collection of models and random things to 3d print _(1 week ago)_
 - [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via S3 _(2 weeks ago)_
-- [jasonraimondi/shopify-public-app-ex](https://github.com/jasonraimondi/shopify-public-app-ex) _(1 month ago)_
+- [jasonraimondi/shopify-public-app-ex](https://github.com/jasonraimondi/shopify-public-app-ex) _(2 months ago)_
 
 #### 🐺 Recent releases I've worked on
 
 
-- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - [v3.0.1](https://github.com/jasonraimondi/ts-oauth2-server/releases/tag/v3.0.1)  - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(today)_
+- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - [v3.0.1](https://github.com/jasonraimondi/ts-oauth2-server/releases/tag/v3.0.1)  - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(1 day ago)_
 - [jasonraimondi/postcss-custom-media-generator](https://github.com/jasonraimondi/postcss-custom-media-generator) - [v1.1.0](https://github.com/jasonraimondi/postcss-custom-media-generator/releases/tag/v1.1.0)  - Generates mobile first `@custom-media` rules from a configuration object. _(4 months ago)_
 - [nest-modules/mailer](https://github.com/nest-modules/mailer) - [v1.8.1](https://github.com/nest-modules/mailer/releases/tag/v1.8.1)  - 📨 A mailer module for Nest framework (node.js) _(10 months ago)_
 - [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - [v1.3.3](https://github.com/jasonraimondi/url-to-png/releases/tag/v1.3.3)  - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via S3 _(1 year ago)_
