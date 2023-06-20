@@ -13,7 +13,7 @@ I have been developing for the web since 2007. I've worked on everything from te
 #### 👨‍💻 Some of my latest contributions
 
 
-- [jasonraimondi/browser-storage](https://github.com/jasonraimondi/browser-storage) - Modular JS/TS storage library enabling easy use of localStorage, sessionStorage or custom providers with built-in serialization and key prefixing for efficient data management. _(1 day ago)_
+- [jasonraimondi/browser-storage](https://github.com/jasonraimondi/browser-storage) - Modular JS/TS storage library enabling easy use of localStorage, sessionStorage or custom providers with built-in serialization and key prefixing for efficient data management. _(today)_
 - [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via S3 _(4 days ago)_
 - [jasonraimondi/date-duration](https://github.com/jasonraimondi/date-duration) _(5 days ago)_
 - [jasonraimondi/zod-friendly-forms](https://github.com/jasonraimondi/zod-friendly-forms) - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. _(5 days ago)_
