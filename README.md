@@ -8,16 +8,16 @@ Over there is Ruby, the best furry sidekick ever.
 
 I am a technologist and computer geek.
 
-I have been developing for the web since 2007. I've worked on everything from terrible old-school procedural :spaghetti: monsters, to fully tested applications in languages including TypeScript, Ruby, PHP, and Golang. Early on, I was developing traditional server-rendered PHP applications with some jquery on top. These days, I'm working on a lot of full stack TypeScript or Ruby on Rails.
+I have been developing for the web since 2007. I've worked on everything from terrible old-school procedural :spaghetti: monsters, to fully tested applications in languages including TypeScript, Ruby, PHP, and Golang. Early on, I was developing traditional server-rendered PHP applications with some jquery on top. These days, I'm working on a lot of full stack TypeScript and Ruby on Rails.
 
 #### 👨‍💻 Some of my latest contributions
 
 
+- [jasonraimondi/ts-oauth2-server-example](https://github.com/jasonraimondi/ts-oauth2-server-example) - This is an example implementation of the @jmondi/oauth2-server project using a NestJS/Express server and a Sveltekit client. This is supposed to be a real-world example of how to implement the package in a production application. _(1 day ago)_
+- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(1 day ago)_
 - [jasonraimondi/browser-storage](https://github.com/jasonraimondi/browser-storage) - An abstracted storage library for browser applications that interfaces with localStorage, sessionStorage, in-memory storage, or any custom serializer. It provides serialization capabilities with optional key prefixing for better storage management. _(1 day ago)_
-- [jasonraimondi/ts-oauth2-server-example](https://github.com/jasonraimondi/ts-oauth2-server-example) _(2 days ago)_
 - [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via S3 _(5 days ago)_
 - [jasonraimondi/date-duration](https://github.com/jasonraimondi/date-duration) _(6 days ago)_
-- [jasonraimondi/zod-friendly-forms](https://github.com/jasonraimondi/zod-friendly-forms) - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. _(6 days ago)_
 
 #### 🐺 Recent releases I've worked on
 
