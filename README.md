@@ -14,9 +14,9 @@ I have been developing for the web since 2007. I've worked on everything from te
 
 
 - [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(1 day ago)_
+- [jasonraimondi/browser-storage](https://github.com/jasonraimondi/browser-storage) - An abstracted storage library for browser applications that interfaces with localStorage, sessionStorage, in-memory storage, or any custom serializer. It provides serialization capabilities with optional key prefixing for better storage management. _(1 day ago)_
 - [jasonraimondi/ts-oauth2-server-example](https://github.com/jasonraimondi/ts-oauth2-server-example) - This is an example implementation of the @jmondi/oauth2-server project using a NestJS/Express server and a Sveltekit client. This is supposed to be a real-world example of how to implement the package in a production application. _(2 days ago)_
 - [jasonraimondi/date-duration](https://github.com/jasonraimondi/date-duration) - The DateDuration class represents a duration of time specified in milliseconds. It provides methods to calculate and retrieve information about the duration. _(2 days ago)_
-- [jasonraimondi/browser-storage](https://github.com/jasonraimondi/browser-storage) - An abstracted storage library for browser applications that interfaces with localStorage, sessionStorage, in-memory storage, or any custom serializer. It provides serialization capabilities with optional key prefixing for better storage management. _(2 days ago)_
 - [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via S3 _(6 days ago)_
 
 #### 🐺 Recent releases I've worked on
