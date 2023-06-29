@@ -13,11 +13,11 @@ I have been developing for the web since 2007. I've worked on everything from te
 #### 👨‍💻 Some of my latest contributions
 
 
-- [jasonraimondi/jmondi](https://github.com/jasonraimondi/jmondi) - A collection of utility packages for use in a variety of projects. _(1 day ago)_
-- [jasonraimondi/petesplates.com](https://github.com/jasonraimondi/petesplates.com) - Where you can buy the one and only Pete&#39;s Plate _(2 days ago)_
-- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(2 days ago)_
-- [jasonraimondi/printables](https://github.com/jasonraimondi/printables) - A collection of models and random things to 3d print _(4 days ago)_
-- [jasonraimondi/browser-storage](https://github.com/jasonraimondi/browser-storage) - An abstracted storage library for browser applications that interfaces with localStorage, sessionStorage, in-memory storage, or any custom serializer. It provides serialization capabilities with optional key prefixing for better storage management. _(6 days ago)_
+- [jasonraimondi/jmondi](https://github.com/jasonraimondi/jmondi) - A collection of utility packages for use in a variety of projects. _(2 days ago)_
+- [jasonraimondi/petesplates.com](https://github.com/jasonraimondi/petesplates.com) - Where you can buy the one and only Pete&#39;s Plate _(3 days ago)_
+- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(3 days ago)_
+- [jasonraimondi/printables](https://github.com/jasonraimondi/printables) - A collection of models and random things to 3d print _(5 days ago)_
+- [jasonraimondi/browser-storage](https://github.com/jasonraimondi/browser-storage) - An abstracted storage library for browser applications that interfaces with localStorage, sessionStorage, in-memory storage, or any custom serializer. It provides serialization capabilities with optional key prefixing for better storage management. _(1 week ago)_
 
 #### 🐺 Recent releases I've worked on
 
