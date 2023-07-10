@@ -26,7 +26,6 @@ I have been developing for the web since 2007. I've worked on everything from te
 - [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - [v1.4.0](https://github.com/jasonraimondi/url-to-png/releases/tag/v1.4.0)  - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via S3 _(3 weeks ago)_
 - [jasonraimondi/zod-friendly-forms](https://github.com/jasonraimondi/zod-friendly-forms) - [v1.3.0](https://github.com/jasonraimondi/zod-friendly-forms/releases/tag/v1.3.0)  - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. _(3 weeks ago)_
 - [jasonraimondi/postcss-custom-media-generator](https://github.com/jasonraimondi/postcss-custom-media-generator) - [v1.1.0](https://github.com/jasonraimondi/postcss-custom-media-generator/releases/tag/v1.1.0)  - Generates mobile first `@custom-media` rules from a configuration object. _(5 months ago)_
-- [nest-modules/mailer](https://github.com/nest-modules/mailer) - [v1.8.1](https://github.com/nest-modules/mailer/releases/tag/v1.8.1)  - 📨 A mailer module for Nest framework (node.js) _(11 months ago)_
 
 #### 📫 How to reach me
 
