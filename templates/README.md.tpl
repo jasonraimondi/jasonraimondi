@@ -1,6 +1,6 @@
 ## Allow Myself to Introduce... Myself
 
-### Hey :wave:, I'm Jason.
+### Hey :wave:, I'm Jason
 
 <img align='right' alt="This is my pup, Ruby." src='https://jasonraimondi.com/misc/me/zombie-ruby-trimmed@2x.png' width='120px'>
 
