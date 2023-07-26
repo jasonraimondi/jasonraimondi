@@ -6,14 +6,8 @@
 
 #### 👨‍💻 Some of my latest contributions
 
-{{range recentContributions 5}}
+{{range recentContributions 8}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} _({{humanize .OccurredAt}})_
-{{- end}}
-
-#### 🐺 Recent releases I've worked on
-
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) - [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) {{with .Description}} - {{.}}{{end}} _({{humanize .LastRelease.PublishedAt}})_
 {{- end}}
 
 #### 📫 How to reach me
