@@ -6,7 +6,7 @@
 
 #### 👨‍💻 Some of my latest contributions
 
-{{range recentContributions 8}}
+{{range recentContributions 6}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} _({{humanize .OccurredAt}})_
 {{- end}}
 
