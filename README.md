@@ -13,8 +13,6 @@
 - [jasonraimondi/playwright-browser-pool](https://github.com/jasonraimondi/playwright-browser-pool) - A template repository to spawn playwright browsers in a generic pool. For science. _(1 week ago)_
 - [jasonraimondi/ts-oauth2-server-example](https://github.com/jasonraimondi/ts-oauth2-server-example) - This is an example implementation of the @jmondi/oauth2-server project using a NestJS/Express server and a Sveltekit client. This is supposed to be a real-world example of how to implement the package in a production application. _(2 weeks ago)_
 - [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(3 weeks ago)_
-- [jasonraimondi/jmondi](https://github.com/jasonraimondi/jmondi) - A collection of utility packages for use in a variety of projects. _(1 month ago)_
-- [jasonraimondi/petesplates.com](https://github.com/jasonraimondi/petesplates.com) - Where you can buy the one and only Pete&#39;s Plate _(1 month ago)_
 
 #### 📫 How to reach me
 
