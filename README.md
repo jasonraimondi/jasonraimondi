@@ -7,13 +7,13 @@
 #### 👨‍💻 Some of my latest contributions
 
 
-- [jasonraimondi/svelte-notify](https://github.com/jasonraimondi/svelte-notify) - A Svelte-based toast system: NotificationService class with success, info, and error methods. Time-based auto-disappear, no dupes ✨🔮 _(today)_
-- [jasonraimondi/browser-storage](https://github.com/jasonraimondi/browser-storage) - An abstracted storage library for browser applications that interfaces with localStorage, sessionStorage, in-memory storage, or any custom serializer. It provides serialization capabilities with optional key prefixing for better storage management. _(3 days ago)_
-- [jasonraimondi/playwright-browser-pool](https://github.com/jasonraimondi/playwright-browser-pool) - A template repository to spawn playwright browsers in a generic pool. For science. _(6 days ago)_
+- [jasonraimondi/svelte-notify](https://github.com/jasonraimondi/svelte-notify) - A Svelte-based toast system: NotificationService class with success, info, and error methods. Time-based auto-disappear, no dupes ✨🔮 _(1 day ago)_
+- [jasonraimondi/browser-storage](https://github.com/jasonraimondi/browser-storage) - An abstracted storage library for browser applications that interfaces with localStorage, sessionStorage, in-memory storage, or any custom serializer. It provides serialization capabilities with optional key prefixing for better storage management. _(4 days ago)_
+- [jasonraimondi/playwright-browser-pool](https://github.com/jasonraimondi/playwright-browser-pool) - A template repository to spawn playwright browsers in a generic pool. For science. _(1 week ago)_
 - [jasonraimondi/ts-oauth2-server-example](https://github.com/jasonraimondi/ts-oauth2-server-example) - This is an example implementation of the @jmondi/oauth2-server project using a NestJS/Express server and a Sveltekit client. This is supposed to be a real-world example of how to implement the package in a production application. _(2 weeks ago)_
 - [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, ASDF, and Ubersicht. _(3 weeks ago)_
 - [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(3 weeks ago)_
-- [jasonraimondi/jmondi](https://github.com/jasonraimondi/jmondi) - A collection of utility packages for use in a variety of projects. _(4 weeks ago)_
+- [jasonraimondi/jmondi](https://github.com/jasonraimondi/jmondi) - A collection of utility packages for use in a variety of projects. _(1 month ago)_
 - [jasonraimondi/petesplates.com](https://github.com/jasonraimondi/petesplates.com) - Where you can buy the one and only Pete&#39;s Plate _(1 month ago)_
 
 #### 📫 How to reach me
