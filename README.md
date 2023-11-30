@@ -12,7 +12,7 @@
 - [jasonraimondi/printables](https://github.com/jasonraimondi/printables) - A collection of models and random things to 3d print _(1 month ago)_
 - [jasonraimondi/ts-oauth2-server-example](https://github.com/jasonraimondi/ts-oauth2-server-example) - This is an example implementation of the @jmondi/oauth2-server project using a NestJS/Express server and a Sveltekit client. This is supposed to be a more real example of how to implement the package in a production application. _(2 months ago)_
 - [jasonraimondi/prisma-generator-nestjs-graphql](https://github.com/jasonraimondi/prisma-generator-nestjs-graphql) - Generate @nestjs/graphql entities with typesafe constructors and create/update inputs. _(2 months ago)_
-- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(2 months ago)_
+- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(3 months ago)_
 
 #### 📫 How to reach me
 
