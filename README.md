@@ -7,12 +7,12 @@
 #### 👨‍💻 Some of my latest contributions
 
 
-- [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - Selfhosted. URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB _(2 days ago)_
+- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A standards compliant implementation of an OAuth 2.0 authorization server for Node that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(1 day ago)_
+- [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - Selfhosted. URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB _(1 day ago)_
 - [jasonraimondi/browser-storage](https://github.com/jasonraimondi/browser-storage) - An abstracted storage library for browser applications that interfaces with localStorage, sessionStorage, in-memory storage, or any custom serializer. It provides serialization capabilities with optional key prefixing for better storage management. _(4 days ago)_
 - [jasonraimondi/zod-friendly-forms](https://github.com/jasonraimondi/zod-friendly-forms) - Validate forms with ease using Zod and get user-friendly error messages or valid typed data, compatible with any framework on both server and client side. _(4 days ago)_
 - [jasonraimondi/jobbiecannon.com](https://github.com/jasonraimondi/jobbiecannon.com) - todo tomorrow... I&#39;m tired _(5 days ago)_
 - [jasonraimondi/jasonraimondi.com](https://github.com/jasonraimondi/jasonraimondi.com) - My personal website! _(6 days ago)_
-- [jasonraimondi/ts-string-encrypt-decrypt](https://github.com/jasonraimondi/ts-string-encrypt-decrypt) - Encrypt and Decrypt strings using AES-GCM 256 _(1 week ago)_
 
 #### 📫 How to reach me
 
