@@ -8,7 +8,7 @@
 
 
 - [jasonraimondi/jasonraimondi.com](https://github.com/jasonraimondi/jasonraimondi.com) - My personal website! _(1 week ago)_
-- [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, and Mise/RTX. _(3 weeks ago)_
+- [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, and Mise/RTX. _(4 weeks ago)_
 - [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A full featured, secure, standards compliant implementation of an OAuth 2.0 authorization server for Nodejs that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(2 months ago)_
 - [jasonraimondi/react-github-ui](https://github.com/jasonraimondi/react-github-ui) - A React component library for displaying GitHub contributors and sponsors. Preview on tsoauth2server.com _(2 months ago)_
 - [jasonraimondi/browser-storage](https://github.com/jasonraimondi/browser-storage) - An abstracted storage library for browser applications that interfaces with localStorage, sessionStorage, in-memory storage, or any custom serializer. It provides serialization capabilities with optional key prefixing for better storage management. _(2 months ago)_
