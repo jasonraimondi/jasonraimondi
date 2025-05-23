@@ -7,8 +7,8 @@
 #### 👨‍💻 Some of my latest contributions
 
 
-- [jasonraimondi/jasonraimondi.com](https://github.com/jasonraimondi/jasonraimondi.com) - My personal website! _(6 days ago)_
-- [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, and Mise. _(3 weeks ago)_
+- [jasonraimondi/jasonraimondi.com](https://github.com/jasonraimondi/jasonraimondi.com) - My personal website! _(1 week ago)_
+- [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, and Mise. _(4 weeks ago)_
 - [jasonraimondi/opnsense_quick_manager](https://github.com/jasonraimondi/opnsense_quick_manager) _(1 month ago)_
 - [jasonraimondi/ts-auth](https://github.com/jasonraimondi/ts-auth) - A JWT-based authentication system with session management. _(1 month ago)_
 - [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A full featured, secure, standards compliant implementation of an OAuth 2.0 authorization server for Nodejs that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(1 month ago)_
