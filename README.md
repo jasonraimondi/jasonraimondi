@@ -7,8 +7,8 @@
 #### 👨‍💻 Some of my latest contributions
 
 
-- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A full featured, secure, standards compliant implementation of an OAuth 2.0 authorization server for Nodejs that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(1 day ago)_
-- [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - Selfhosted. URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB _(6 days ago)_
+- [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A full featured, secure, standards compliant implementation of an OAuth 2.0 authorization server for Nodejs that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(2 days ago)_
+- [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - Selfhosted. URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB _(1 week ago)_
 - [jasonraimondi/jasonraimondi.com](https://github.com/jasonraimondi/jasonraimondi.com) - My personal website! _(3 weeks ago)_
 - [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, and Mise. _(1 month ago)_
 - [jasonraimondi/opnsense_quick_manager](https://github.com/jasonraimondi/opnsense_quick_manager) _(1 month ago)_
