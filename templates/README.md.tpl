@@ -12,5 +12,6 @@
 
 #### 📫 How to reach me
 
-- Fediverse: https://indieweb.social/@jasonraimondi
 - LinkedIn: https://linkedin.com/in/jasonraimondi
+- BlueSky: https://bsky.app/profile/jasonraimondi.com
+- Fediverse: https://indieweb.social/@jasonraimondi
