@@ -12,9 +12,10 @@
 - [jasonraimondi/jasonraimondi.com](https://github.com/jasonraimondi/jasonraimondi.com) - My personal website! _(2 months ago)_
 - [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, and Mise. _(3 months ago)_
 - [jasonraimondi/opnsense_quick_manager](https://github.com/jasonraimondi/opnsense_quick_manager) _(3 months ago)_
-- [jasonraimondi/ts-auth](https://github.com/jasonraimondi/ts-auth) - A JWT-based authentication system with session management. _(4 months ago)_
+- [jasonraimondi/dockerfile-caddy](https://github.com/jasonraimondi/dockerfile-caddy) - Caddy with support for local certs _(7 months ago)_
 
 #### 📫 How to reach me
 
-- Fediverse: https://indieweb.social/@jasonraimondi
 - LinkedIn: https://linkedin.com/in/jasonraimondi
+- BlueSky: https://bsky.app/profile/jasonraimondi.com
+- Fediverse: https://indieweb.social/@jasonraimondi
