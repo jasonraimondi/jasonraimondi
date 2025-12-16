@@ -4,6 +4,12 @@
 
 <img align='right' alt="This is my pup, Ruby." src='https://jasonraimondi.com/misc/me/zombie-ruby-trimmed@2x.png' width='120px'>
 
+⚠️⚠️ 
+It has come to my attention that someone may be impersonating me.
+I am currently employed and am **not** applying for or seeking new opportunities.
+If you receive any communication claiming to be from me, please contact me at jason@raimondi.us.
+⚠️⚠️
+
 #### 👨‍💻 Some of my latest contributions
 
 {{range recentContributions 6}}
