@@ -7,8 +7,8 @@
 #### 👨‍💻 Some of my latest contributions
 
 
+- [jasonraimondi/plan-bender](https://github.com/jasonraimondi/plan-bender) - Structured planning pipeline for AI coding agents — interview, PRD, issues, review, implement, archive _(today)_
 - [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, and Mise. _(3 days ago)_
-- [jasonraimondi/plan-bender](https://github.com/jasonraimondi/plan-bender) - Structured planning pipeline for AI coding agents — interview, PRD, issues, review, implement, archive _(3 days ago)_
 - [jasonraimondi/homebrew-tap](https://github.com/jasonraimondi/homebrew-tap) _(4 days ago)_
 - [jasonraimondi/url-to-png](https://github.com/jasonraimondi/url-to-png) - Selfhosted. URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB _(3 weeks ago)_
 - [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A full featured, secure, standards compliant implementation of an OAuth 2.0 authorization server for Nodejs that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.  _(1 month ago)_
