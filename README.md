@@ -7,7 +7,7 @@
 #### 👨‍💻 Some of my latest contributions
 
 
-- [jasonraimondi/plan-bender](https://github.com/jasonraimondi/plan-bender) - Structured planning pipeline for AI coding agents — interview, PRD, issues, review, implement, archive _(2 days ago)_
+- [jasonraimondi/plan-bender](https://github.com/jasonraimondi/plan-bender) - Structured planning pipeline for AI coding agents — interview, PRD, issues, review, implement, archive _(1 day ago)_
 - [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, and Mise. _(4 days ago)_
 - [jasonraimondi/jasonraimondi.com](https://github.com/jasonraimondi/jasonraimondi.com) - My personal website! _(4 days ago)_
 - [jasonraimondi/skills](https://github.com/jasonraimondi/skills) _(1 week ago)_
