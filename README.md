@@ -7,7 +7,7 @@
 #### 👨‍💻 Some of my latest contributions
 
 
-- [jasonraimondi/plan-bender](https://github.com/jasonraimondi/plan-bender) - Structured planning pipeline for AI coding agents — interview, PRD, issues, review, implement, archive _(2 days ago)_
+- [jasonraimondi/plan-bender](https://github.com/jasonraimondi/plan-bender) - Structured planning pipeline for AI coding agents — interview, PRD, issues, review, implement, archive _(today)_
 - [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, and Mise. _(3 days ago)_
 - [jasonraimondi/skills](https://github.com/jasonraimondi/skills) - Agent skills in the SKILL.md format. Each is a folder an agent loads when the task fits. _(3 days ago)_
 - [jasonraimondi/jasonraimondi.com](https://github.com/jasonraimondi/jasonraimondi.com) - My personal website! _(6 days ago)_
