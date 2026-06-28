@@ -12,7 +12,7 @@
 - [jasonraimondi/jasonraimondi.com](https://github.com/jasonraimondi/jasonraimondi.com) - My personal website! _(2 weeks ago)_
 - [jasonraimondi/skills](https://github.com/jasonraimondi/skills) - Agent skills in the SKILL.md format. Each is a folder an agent loads when the task fits. _(2 weeks ago)_
 - [jasonraimondi/browser-storage](https://github.com/jasonraimondi/browser-storage) - An abstracted storage library for browser applications that interfaces with localStorage, sessionStorage, in-memory storage, or any custom serializer. It provides serialization capabilities with optional key prefixing for better storage management. _(2 weeks ago)_
-- [jasonraimondi/plan-bender](https://github.com/jasonraimondi/plan-bender) - Structured planning pipeline for AI coding agents — interview, PRD, issues, review, implement, archive _(2 weeks ago)_
+- [jasonraimondi/plan-bender](https://github.com/jasonraimondi/plan-bender) - Structured planning pipeline for AI coding agents — interview, PRD, issues, review, implement, archive _(3 weeks ago)_
 
 #### 📫 How to reach me
 
