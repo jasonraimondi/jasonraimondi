@@ -7,7 +7,7 @@
 #### 👨‍💻 Some of my latest contributions
 
 
-- [jasonraimondi/skills](https://github.com/jasonraimondi/skills) - Agent skills in the SKILL.md format. Each is a folder an agent loads when the task fits. _(1 week ago)_
+- [jasonraimondi/skills](https://github.com/jasonraimondi/skills) - Agent skills _(1 week ago)_
 - [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A full featured, secure, standards compliant TypeScript implementation of an OAuth/OIDC authorization server for Nodejs that utilizes JWT and Proof Key for Code Exchange (PKCE) _(1 month ago)_
 - [jasonraimondi/ts-oauth2-server-example](https://github.com/jasonraimondi/ts-oauth2-server-example) - Example implementation of @jmondi/oauth2-server (v5) using a Hono &#43; Drizzle server and a SvelteKit client showing an authorization-code &#43; PKCE flow with real user consent, OpenID Connect, and token refresh/revocation. _(1 month ago)_
 - [jasonraimondi/jasonraimondi.com](https://github.com/jasonraimondi/jasonraimondi.com) - My personal website! _(1 month ago)_
