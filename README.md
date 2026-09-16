@@ -7,8 +7,8 @@
 #### 👨‍💻 Some of my latest contributions
 
 
-- [thempatel/mdlr](https://github.com/thempatel/mdlr) - Modular: A tool to help coding agents write code like us. _(today)_
-- [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, and Mise. _(4 days ago)_
+- [thempatel/mdlr](https://github.com/thempatel/mdlr) - Modular: A tool to help coding agents write code like us. _(1 day ago)_
+- [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, and Mise. _(5 days ago)_
 - [aaronpk/oauth.net](https://github.com/aaronpk/oauth.net) - :lock: The oauth.net website. Feel free to send pull requests with updates. _(2 weeks ago)_
 - [jasonraimondi/browser-storage](https://github.com/jasonraimondi/browser-storage) - An abstracted storage library for browser applications that interfaces with localStorage, sessionStorage, in-memory storage, or any custom serializer. It provides serialization capabilities with optional key prefixing for better storage management. _(3 weeks ago)_
 - [jasonraimondi/ts-oauth2-server](https://github.com/jasonraimondi/ts-oauth2-server) - A full featured, secure, standards compliant TypeScript implementation of an OAuth/OIDC authorization server for Nodejs that utilizes JWT and Proof Key for Code Exchange (PKCE) _(3 weeks ago)_
