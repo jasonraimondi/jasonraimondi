@@ -7,7 +7,7 @@
 #### 👨‍💻 Some of my latest contributions
 
 
-- [thempatel/mdlr](https://github.com/thempatel/mdlr) - Modular: A tool to help coding agents write code like us. _(6 days ago)_
+- [thempatel/mdlr](https://github.com/thempatel/mdlr) - Modular: A tool to help coding agents write code like us. _(1 week ago)_
 - [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, and Mise. _(1 week ago)_
 - [aaronpk/oauth.net](https://github.com/aaronpk/oauth.net) - :lock: The oauth.net website. Feel free to send pull requests with updates. _(3 weeks ago)_
 - [jasonraimondi/browser-storage](https://github.com/jasonraimondi/browser-storage) - An abstracted storage library for browser applications that interfaces with localStorage, sessionStorage, in-memory storage, or any custom serializer. It provides serialization capabilities with optional key prefixing for better storage management. _(1 month ago)_
